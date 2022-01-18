@@ -204,7 +204,7 @@ button:hover {
   text-transform: uppercase;
 }
 
-@media(max-width: 320px){
+@media(max-width:120px){
  body{
  display:grid;
  grid-template-columns: 1fr;
